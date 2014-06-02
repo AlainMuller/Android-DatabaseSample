@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Database Sample</string>
+    <string name="btn_main_add_text">Ajouter Nouveau</string>
+    <string name="btn_main_delete_first_text">Supprimer Premier</string>
+    <string name="btn_main_delete_last_text">Supprimer Dernier</string>
+    <string name="tv_main_comments_empty_text">Pas de commentaires</string>
+
+</resources>
